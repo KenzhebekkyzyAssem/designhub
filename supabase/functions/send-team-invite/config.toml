@@ -1,0 +1,2 @@
+# supabase/functions/send-team-invite/config.toml
+verify_jwt = true
